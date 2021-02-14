@@ -1,0 +1,2 @@
+1¿Por qué es importante crear repositorios en un proyecto de software?
+R=/ Es importante porque se pueden almacenar distintos proyectos en los repositorios, incluso proyectos de código abierto.
