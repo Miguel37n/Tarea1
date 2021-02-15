@@ -1,2 +1,6 @@
 1¿Por qué es importante crear repositorios en un proyecto de software?
 R=/ Es importante porque se pueden almacenar distintos proyectos en los repositorios, incluso proyectos de código abierto.
+
+2-Describa 2 ventajas de crear repositorios en un proyecto de software.
+1)La información está disponible siempre (las 24 horas del día, los 7 días de la semana).
+2)La información puede ser actualizada instantáneamente y al mismo tiempo en todos los "surtidores" o "dispensadores" de información, ya sean los ordenadores de la red del campus o ambos sistemas.
